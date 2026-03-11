@@ -1,13 +1,3 @@
-notepad README.md
-
-```
-
-
-
-Paste this:
-
-```
-
 \# Contoso Corp — Windows Server Home Lab
 
 
